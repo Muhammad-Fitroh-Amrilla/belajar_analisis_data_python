@@ -24,7 +24,7 @@ def create_byseason_df(df):
     return byseason_df
 
 # Membaca dataset yang digunakan
-day_df = pd.read_csv('dashboard/main_data.csv')
+day_df = pd.read_csv('main_data.csv')
 
 day_df["datetime"] = pd.to_datetime(day_df["datetime"])
 day_df.sort_values(by="datetime", inplace=True)
