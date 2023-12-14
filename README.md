@@ -1,5 +1,5 @@
 # DataAnalysis
-Bike Rentals - Final Project Data Analytics is the culmination of the "Belajar Analisis Data Dengan Python" course on Dicoding, focusing on analyzing and creating a dashboard from a bike-sharing dataset. The notebook file provides a detailed walkthrough of the analysis process, covering Data Wrangling, Exploratory Data Analysis, and Data Visualization. Additionally, a Streamlit-based dashboard has been developed for a user-friendly interface, accessible through a link in the right sidebar or provided within the project documentation.
+Bike Rentals - Final Project Data Analytics is the culmination of the "Belajar Analisis Data Dengan Python" course on Dicoding, focusing on analyzing and creating a dashboard from a bike-sharing dataset. The notebook file provides a detailed walkthrough of the analysis process, covering Data Wrangling, Exploratory Data Analysis, and Data Visualization. Additionally, a Streamlit-based dashboard has been developed for a user-friendly interface, accessible through [this link]( https://dbdataanalysisfitroh.streamlit.app/)
 
 **File Structures:**
 ```
