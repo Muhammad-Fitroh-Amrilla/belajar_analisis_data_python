@@ -37,7 +37,7 @@ max_date = day_df["datetime"].max()
 with st.sidebar:
     # Menambahkan logo perusahaan
     # Membuka gambar logo
-    image = Image.open('dashboard/logo.png')
+    image = Image.open('logo.png')
     
     # Menampilkan logo
     st.image(image)
